@@ -1,0 +1,50 @@
+body {
+  background: #d5b9b2;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: #a26769;
+}
+
+a:visited {
+	color: #a26769;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+
+
+.myColor ,.myPlace ,.myRitual{
+background-color: yellow;
+padding: 5px;
+border-radius: 100px;
+box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.7);
+}
+div {
+	background-color:#582C4D ;
+	color: #582C4D;
+	border-radius: 25px;
+}
